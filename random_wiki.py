@@ -3,7 +3,7 @@ import tweepy
 from time import sleep
 
 chave_consumidor = ""
-segredo_consumidor = ''
+segredo_consumidor = ""
 token_acesso = ""
 token_acesso_secreto = ""
 
@@ -80,6 +80,5 @@ def publicaTuite(postTuite):
         rodar()
     except:
         rodar()
-
 
 rodar()

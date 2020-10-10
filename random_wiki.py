@@ -2,9 +2,6 @@ import wikipedia
 import tweepy
 from time import sleep
 
-#
-#
-
 chave_consumidor = ""
 segredo_consumidor = ''
 token_acesso = ""
